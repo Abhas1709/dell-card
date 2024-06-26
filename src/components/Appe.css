@@ -1,0 +1,47 @@
+.App{
+  padding: 20px;
+     
+
+}
+
+.insideapp{
+    background-color:skyblue;
+    width: fit-content;
+   border-radius: 20px;
+   padding: 20px,
+}
+.card{
+        height: 250px;
+        width: 350px;
+
+}
+
+.square{
+  height: 250px;
+  width: 350px;
+  border-radius: 20px;
+  border-color:black;
+  margin-left: 20px;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+.circle{
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  border-color: black;
+  border-style: solid;
+  
+  
+
+
+}
+.circulate{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  
+}

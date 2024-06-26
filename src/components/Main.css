@@ -1,0 +1,18 @@
+.mainss{
+    display: flex;
+   flex-wrap: wrap;
+}
+
+.mainss>* {
+    flex: 0 0 33.333%;
+
+}
+
+.yuu{
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+}
